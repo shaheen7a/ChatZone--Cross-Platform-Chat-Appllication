@@ -111,7 +111,7 @@ const styles = StyleSheet.create({
   },
   whiteSheet: {
     width: "100%",
-    height: "75%",
+    height: "60%",
     position: "absolute",
     bottom: 0,
     backgroundColor: "#fff",
