@@ -20,6 +20,7 @@ export default {
       "supportsTablet": true
     },
     "android": {
+      "package": "com.firechat.chat",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -29,6 +30,9 @@ export default {
       "favicon": "./assets/favicon.png"
     },
     extra: {
+      "eas": {
+        "projectId": "b369297f-4a1e-4517-b0ab-c740f590795f"
+      },
       apiKey: process.env.API_KEY,
       authDomain: process.env.AUTH_DOMAIN,
       projectId: process.env.PROJECT_ID,
