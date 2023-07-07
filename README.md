@@ -1,4 +1,4 @@
-# ChatZone -- Cross-Platform Chat Appllication
+# ChatZone -- Cross-Platform Chat Application
 
 ## Welcome! 👋
 
@@ -7,7 +7,7 @@ Thanks for checking out this Application. 🎉
 ⚠️ Please note that the app is currently under development and is not ready for production use. ⚠️
 
 ## Overview
-This is a cross-platform chatting application built using React, Vite, CSS, Stream Chat, Firebase, and React Native. It allows users to communicate with each other through channels or groups. The app can be accessed via web browsers and Android devices.🌐📱
+This cross-platform chatting application was built using React, Vite, CSS, Stream Chat, Firebase, and React Native. It allows users to communicate with each other through channels or groups. The app can be accessed via web browsers and Android devices.🌐📱
 
 ## Features
 
@@ -17,7 +17,7 @@ This is a cross-platform chatting application built using React, Vite, CSS, Stre
 - User presence: The app shows the online/offline status of users. 🟢🔴
 - Notifications: Users receive notifications for new messages and activities. 📲🔔
 - Multimedia support: Users can share images, videos, and other media files. 📷🎥📁
-- Cross-platform compatibility: The app works seamlessly on both web and Android platforms. 💻📱
+- Cross-platform compatibility: The app works seamlessly on web and Android platforms. 💻📱
 
 
 ## My process
@@ -37,4 +37,4 @@ This is a cross-platform chatting application built using React, Vite, CSS, Stre
 - Facebook - [@aoushaheen7](https://www.facebook.com/shaheen72001/)
 
 
-Thank you for your interest in ChatZone! Stay tuned for future updates and the official release of the app. If you have any questions or feedback, feel free to reach out. 😊🚀
+I appreciate your interest in ChatZone! Stay tuned for future updates and the official release of the app. If you have any questions or feedback, feel free to reach out. 😊🚀
