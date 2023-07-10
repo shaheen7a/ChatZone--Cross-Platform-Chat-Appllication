@@ -28,6 +28,9 @@ This is a cross-platform chatting application built using React, Vite, CSS, Stre
 - **Vite**: A fast build tool for React apps.
 - **CSS**: Cascading Style Sheets for styling the app.
 - **Stream Chat**: A scalable chat API and messaging infrastructure provider.
+- **MongoDB**
+- **Node JS**
+- **Express JS**
 - **Firebase**: A mobile and web application development platform.
 - **React Native**: A framework for building native mobile apps using React.
 
