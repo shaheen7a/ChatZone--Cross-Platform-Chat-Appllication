@@ -4,7 +4,7 @@
 
 Thanks for checking out this Application. 🎉
 
-⚠️ Please note that the app is currently under development and is not ready for production use. ⚠️
+⚠️ Please note that the app is currently under development and is not ready for production use. (incompleted) ⚠️
 
 ## Overview
 This cross-platform chatting application was built using React, Vite, CSS, Stream Chat, Firebase, and React Native. It allows users to communicate with each other through channels or groups. The app can be accessed via web browsers and Android devices.🌐📱
